@@ -171,15 +171,15 @@ body{
     display: inline-block;
 }
 .male{
-    background: url(../image/male.svg);
+    background: url(male.jpeg);
     background-repeat: no-repeat;
-    background-size: 50px;
+    background-size: 150px;
     background-position: center;
 }
 .female{
-    background: url(../image/female.svg);
+    background: url(female.jpeg);
     background-repeat: no-repeat;
-    background-size: 50px;
+    background-size: 150px;
     background-position: center;
 }
 .image:hover{
